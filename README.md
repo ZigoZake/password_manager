@@ -46,13 +46,13 @@ On first run:
 - Vault file will be generated after first entry
 
 ## Project Structure
-python-password-manager/
-│
-├── vault.py
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+python-password-manager/<br>
+│<br>
+├── vault.py<br>
+├── requirements.txt<br>
+├── README.md<br>
+├── LICENSE<br>
+└── .gitignore<br>
 
 ## 🛡️ Security Details
 Key derivation: PBKDF2-HMAC-SHA256
